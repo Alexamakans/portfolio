@@ -10,12 +10,12 @@
 
 ## Challenges
 
-- Cryptopals
+- [Cryptopals](https://cryptopals.com/)
     - [Go](https://github.com/Alexamakans/cryptopals)
-- Protohackers
+- [Protohackers](https://protohackers.com/)
     - [Go](https://github.com/Alexamakans/protohackers-go)
     - [Zig](https://github.com/Alexamakans/protohackers-zig)
-- Advent of Code
+- [Advent of Code](https://adventofcode.com/about)
     - [C++](https://github.com/Alexamakans/advent-of-code-cpp)
     - [Rust](https://github.com/Alexamakans/advent-of-code-rust)
     - [Bash](https://github.com/Alexamakans/advent-of-code-bash)
