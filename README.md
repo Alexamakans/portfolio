@@ -7,6 +7,8 @@
 - [KStats](https://github.com/Alexamakans/kstats)
     - Type text and see statistics for which keys you are
       slow at transitioning between.
+- Rewrote the client and server for a popular MMORPG roguelike flash game together with
+  a friend. _Source code not publically available due to possible copyright/licensing issues._
 
 ## Challenges
 
