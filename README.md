@@ -8,7 +8,7 @@
     - Type text and see statistics for which keys you are
       slow at transitioning between.
 - [Wharf - CI/CD solution](https://github.com/iver-wharf)
-    - Gin/Gorm/Postgres/Kubernetes
+    - Gin/Swagger/Gorm/Postgres/Kubernetes
 - Rewrote the client and server for an old popular MMORPG roguelike flash game together with
   a friend. _Source code not publically available due to possible copyright/licensing issues._
 
