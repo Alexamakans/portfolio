@@ -1,16 +1,26 @@
+## Professional projects
+
+### Golang
+
+- [Wharf - CI/CD solution](https://github.com/iver-wharf)
+    - Gin/Swagger/Gorm/Postgres/Kubernetes
+
 ## Hobby projects
 
 ### Golang
 
+- Rewrote the client and server for an old popular MMORPG roguelike flash game together with
+  a friend. _Source code not publically available due to possible copyright/licensing issues._
 - [Finite State Machine](https://github.com/Alexamakans/fsm)
     - Circuit definition language with simulation
 - [KStats](https://github.com/Alexamakans/kstats)
     - Type text and see statistics for which keys you are
       slow at transitioning between.
-- [Wharf - CI/CD solution](https://github.com/iver-wharf)
-    - Gin/Swagger/Gorm/Postgres/Kubernetes
-- Rewrote the client and server for an old popular MMORPG roguelike flash game together with
-  a friend. _Source code not publically available due to possible copyright/licensing issues._
+
+### C++
+
+- [Vulking](https://github.com/Alexamakans/vulking)
+    - Early stages, game engine using Vulkan for rendering.
 
 ## Fun challenges
 
