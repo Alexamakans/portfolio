@@ -22,7 +22,7 @@ A short possibly non-exhaustive list of my repositories that aren't empty/trivia
 ### C++
 
 - [Vulking](https://github.com/Alexamakans/vulking)
-  - Early stages, game engine using Vulkan for rendering.
+  - Current main hobby project, early stages, game engine using Vulkan for rendering.
 
 ## Fun challenges
 
